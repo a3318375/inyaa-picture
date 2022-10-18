@@ -1,8 +1,8 @@
 package cn.inyaa.picture.file.bean;
 
+import jakarta.persistence.*;
 import lombok.Data;
 
-import javax.persistence.*;
 import java.time.LocalDateTime;
 
 /**
